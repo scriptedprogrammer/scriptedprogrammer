@@ -10,7 +10,6 @@ I'm a versatile developer proficient in various programming languages and techno
 
 Languages: Python, JavaScript, Java  
 Web Technologies: HTML, CSS  
-Technologies: [List of other technologies, frameworks, and tools you are experienced with]  
 Problem Solving: I enjoy tackling challenging problems and finding elegant solutions.
 
 ## Projects
