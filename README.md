@@ -28,7 +28,7 @@ I actively contribute to open-source projects and believe in the power of collab
 ## Connect with Me
 
 GitHub: [@scriptedprogrammer](https://github.com/scriptedprogrammer)  
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: 
 
 ## Let's Code Together
 
